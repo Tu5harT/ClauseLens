@@ -28,6 +28,10 @@ ClauseLens screens a contract in seconds and shows where to look and what to ask
 
 ## How it works (step by step)
 
+![ClauseLens workflow](docs/workflow.jpg)
+
+(regenerate the diagram with `python make_workflow.py`)
+
 ```
  Sign in
     |
