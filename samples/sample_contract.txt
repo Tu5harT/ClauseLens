@@ -1,0 +1,36 @@
+SOFTWARE SERVICES AGREEMENT
+
+This Agreement is made on the date last signed below between Nimbus Cloud Ltd. ("Provider") and the customer named in the order form ("Customer").
+
+1. Services and Term
+The Provider shall perform the Services with reasonable skill and care. This Agreement shall automatically renew for successive one-year terms unless the Customer gives written notice of non-renewal at least ninety (90) days before the end of the then-current term.
+
+2. Fees and Payment
+All fees are non-refundable. Invoices are payable within 7 days of the invoice date, and overdue amounts accrue interest at 3% per month. The Provider may increase the fees at any time by posting new prices on its website.
+
+3. Termination
+The Provider may terminate this Agreement immediately and without notice in its sole discretion. The Customer may not terminate this Agreement before the end of the Initial Term for any reason. An early termination fee equal to all remaining monthly charges is due upon cancellation.
+
+4. Liability and Indemnity
+The Customer shall indemnify, defend and hold harmless the Provider from any and all claims arising out of the Customer's use of the Services, and the Customer's liability under this Agreement shall be unlimited. In no event shall the Provider be liable for any indirect or consequential damages.
+
+5. Warranties
+The Services are provided "as is" and "as available". The Provider disclaims all warranties, express or implied, including merchantability and fitness for a particular purpose.
+
+6. Confidentiality
+The Customer shall keep confidential any and all information disclosed by the Provider, and this obligation shall survive indefinitely. The Provider is entitled to injunctive relief without proof of damage.
+
+7. Intellectual Property
+The Customer grants the Provider a perpetual, worldwide, royalty-free, irrevocable license to use, modify and sublicense all content uploaded to the Services.
+
+8. Data
+The Provider may share Customer personal data with third parties and affiliates for marketing purposes. The Provider is not responsible for any security breach or unauthorized access to Customer Data.
+
+9. Changes
+The Provider reserves the right to modify these terms at any time without prior notice. The Customer's continued use of the Services constitutes acceptance.
+
+10. Disputes
+Any dispute shall be finally resolved by binding arbitration in Provider's home city, and the Customer waives the right to a jury trial or to participate in any class action. This Agreement is governed by the laws of the State of Delaware.
+
+11. General
+This Agreement constitutes the entire agreement between the parties. If any provision is held invalid, the remaining provisions continue in full force. Notices must be in writing and delivered to the address in the order form.

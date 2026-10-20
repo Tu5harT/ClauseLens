@@ -1,0 +1,26 @@
+CONSULTING AGREEMENT
+
+This Agreement is made between Acme Ltd. ("Client") and Jane Doe ("Consultant").
+
+1. Services
+The Consultant shall perform the Services with reasonable skill and care in accordance with good industry practice.
+Each party shall appoint a representative to act as the primary contact for the project.
+
+2. Fees
+Invoices will be issued monthly and are payable within thirty (30) days of receipt.
+Any change to the fees must be agreed in writing and signed by both parties.
+
+3. Term and Termination
+Either party may terminate this Agreement by giving thirty (30) days' written notice to the other party.
+Upon termination the Client shall pay for Services performed up to the termination date.
+
+4. Confidentiality
+Each party shall protect the other's Confidential Information with the same degree of care it uses for its own, for a period of three years after disclosure.
+
+5. Liability
+Neither party's total liability under this Agreement shall exceed the fees paid in the twelve months preceding the claim.
+
+6. General
+This Agreement is governed by the laws of England and Wales.
+This Agreement constitutes the entire agreement between the parties.
+If any provision is held invalid, the remaining provisions continue in full force.
